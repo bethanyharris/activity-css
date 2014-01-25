@@ -1,0 +1,40 @@
+html {
+    font-family: Helvetica, Arial, sans-serif;
+    border-top: 8px dotted #FFF;
+    border-bottom: 8px dotted #FFF;
+}
+
+body {
+    background-color: #33CCFF;
+}
+
+h1 {
+    font-family: Helvetics, Arial, sans-serif;
+    font-size: 3.5rem; /* 1 rem = 16px */
+    font-weight: bold;
+    color: #FFF;
+    text-shadow: #0066CC 5px 5px
+}
+
+p {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    color: #003399
+}
+
+h2 {
+    color: #FFF
+}
+
+ul,
+ol {
+    background-color: #0066CC;
+}
+
+li {
+    color: #FFF;
+}
+
+hr{
+    border: dotted 6px #FFF
+}
